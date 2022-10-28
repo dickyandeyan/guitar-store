@@ -75,7 +75,7 @@
 			"guitar_name": "SG Standard '61 Sideways Vibrola - Vintage Cherry",
 			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/390gPrEW4xgalmbqwRGW3j/edc162b99710375d46605b3e9ab0a906/__static.gibson.com_product-images_USA_USAKA9147_Vintage_Cherry_front-500_500.png?fit=fill&w=250&h=500",
 			"price": "$2,399.00",
-			"description": "Vibrato with More Vibe The SG™ Standard ‘61 Sideways Vibrola™, returns to the classic design that made it relevant, played, and loved -- shaping sound across generations and genres of music. As the name implies, the Gibson SG Standard '61 Sideways Vibrola is equipped with the unique Sideways side-pull action vibrato similar to those found on the early 60s models. Standard features include a SlimTaper™ mahogany neck and a bound rosewood fingerboard. The mahogany body features a deeply sculpted body scarfing, a 5-ply teardrop pickguard, and a 22nd-fret neck joint. The nickel-plated hardware includes a classic-style Tune-O-Matic™ bridge and Keystone tuners in addition to the Sideways Vibrola tailpiece.  The pickups are 60s Burstbucker™ humbuckers™ for a classic voice with added power and top end. Controls feature audio taper potentiometers and Orange Drop® capacitors.",
+			"description": "Vibrato with More Vibe The SG™ Standard ‘61 Sideways Vibrola™, returns to the classic design that made it relevant, played, and loved -- shaping sound across generations and genres of music. As the name implies, the Gibson SG Standard '61 Sideways Vibrola is equipped with the unique Sideways side-pull action vibrato similar to those found on the early 60s models. Standard features include a SlimTaper™ mahogany neck and a bound rosewood fingerboard. The mahogany body features a deeply sculpted body scarfing, a 5-ply teardrop pickguard, and a 22nd-fret neck joint. The nickel-plated hardware includes a classic-style Tune-O-Matic™ bridge and Keystone tuners in addition to the Sideways Vibrola tailpiece.",
 			"specs": {
 				"body_styles": "SG",
 				"top": "Flat",
@@ -86,48 +86,6 @@
 		},
 		{
 			"id": 7,
-			"guitar_name": "SG Standard '61 - Ebony",
-			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/0z4mdpLUCN5kUeoNF2nOT4/c6adb39f27b1dd2b0b11c6c66305e9ec/__static.gibson.com_product-images_USA_USA9UY255_Ebony_front-500_500.png?fit=fill&w=250&h=500",
-			"price": "$1,999.00",
-			"description": "Vibrato with More Vibe The SG™ Standard ‘61 Sideways Vibrola™, returns to the classic design that made it relevant, played, and loved -- shaping sound across generations and genres of music. As the name implies, the Gibson SG Standard '61 Sideways Vibrola is equipped with the unique Sideways side-pull action vibrato similar to those found on the early 60s models. Standard features include a SlimTaper™ mahogany neck and a bound rosewood fingerboard. The mahogany body features a deeply sculpted body scarfing, a 5-ply teardrop pickguard, and a 22nd-fret neck joint. The nickel-plated hardware includes a classic-style Tune-O-Matic™ bridge and Keystone tuners in addition to the Sideways Vibrola tailpiece.  The pickups are 60s Burstbucker™ humbuckers™ for a classic voice with added power and top end. Controls feature audio taper potentiometers and Orange Drop® capacitors.",
-			"specs": {
-				"body_styles": "SG",
-				"top": "Cream Fretboard",
-				"finish": "Gloss Nitrocellulose Lacquer",
-				"material": "Mahogany",
-				"pickup": "60s Burstbucker"
-			}
-		},
-		{
-			"id": 8,
-			"guitar_name": "SG Standard '61 - Ebony",
-			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/0z4mdpLUCN5kUeoNF2nOT4/c6adb39f27b1dd2b0b11c6c66305e9ec/__static.gibson.com_product-images_USA_USA9UY255_Ebony_front-500_500.png?fit=fill&w=250&h=500",
-			"price": "$1,999.00",
-			"description": "Vibrato with More Vibe The SG™ Standard ‘61 Sideways Vibrola™, returns to the classic design that made it relevant, played, and loved -- shaping sound across generations and genres of music. As the name implies, the Gibson SG Standard '61 Sideways Vibrola is equipped with the unique Sideways side-pull action vibrato similar to those found on the early 60s models. Standard features include a SlimTaper™ mahogany neck and a bound rosewood fingerboard. The mahogany body features a deeply sculpted body scarfing, a 5-ply teardrop pickguard, and a 22nd-fret neck joint. The nickel-plated hardware includes a classic-style Tune-O-Matic™ bridge and Keystone tuners in addition to the Sideways Vibrola tailpiece.  The pickups are 60s Burstbucker™ humbuckers™ for a classic voice with added power and top end. Controls feature audio taper potentiometers and Orange Drop® capacitors.",
-			"specs": {
-				"body_styles": "SG",
-				"top": "Cream Fretboard",
-				"finish": "Gloss Nitrocellulose Lacquer",
-				"material": "Mahogany",
-				"pickup": "60s Burstbucker"
-			}
-		},
-		{
-			"id": 9,
-			"guitar_name": "Jimi Hendrix™ 1967 SG Custom",
-			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/5RNTDTfCAxHM4ZV9XDKkw1/c3d81c5116961782fea769e70db7ea05/__static.gibson.com_product-images_Custom_CUSFHH685_Aged_Polaris_White_front-500_500.png?fit=fill&w=250&h=500",
-			"price": "$9,999.00",
-			"description": "A Recreation of the Legend's 1967 SG Custom, Jimi Hendrix is widely regarded as the most innovative guitarist of the rock era. This limited edition Gibson Custom Shop 1967 SG™ Custom accurately replicates the right-handed guitar (strung lefty) that Hendrix played on The Dick Cavett Show on September 9, 1969 - one of Jimi's rare television interviews and performances. This SG Custom features a Murphy Lab Aged Polaris White finish and aged gold hardware. Only 150 guitars will be created as part of this very special run, hand-made by the expert luthiers and craftspeople of the Gibson Custom Shop in Nashville, Tennessee, USA.",
-			"specs": {
-				"body_styles": "SG Custom",
-				"top": "Cream Fretboard",
-				"finish": "Murphy Lab Aged Nitrocellulose Lacquer",
-				"material": "Mahogany",
-				"pickup": "'68 Custom Humbucker"
-			}
-		},
-		{
-			"id": 10,
 			"guitar_name": "EDS-1275 Doubleneck - Cherry Red",
 			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/0dAfsvnRqazlUlfehugZAE/5359ae41ec56e04c851f540235b0c0b1/__static.gibson.com_product-images_Custom_CUSQLT562_Cherry_Red_front-500_500.png?fit=fill&w=250&h=500",
 			"price": "$7,999.00",

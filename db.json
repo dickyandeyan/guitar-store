@@ -27,6 +27,48 @@
 				"material": "Mahogany",
 				"pickup": "Mini Humbucker"
 			}
+		},
+		{
+			"id": 3,
+			"guitar_name": "Peter Frampton \"Phenix\" Inspired Les Paul Custom - Ebony",
+			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/0JAIxZPxKXIWkdkE6YXok5/6f6eeac989464815939d841ae09441de/__static.gibson.com_product-images_Custom_CUS2HT977_Ebony_front-500_500.png?fit=fill&w=250&h=500",
+			"price": "$6,999.00",
+			"description": "Inspired by Peter Frampton's Legendary 1954 Les Paul Custom, The \"Phenix\" Les Paul Custom is the iconic guitar that is heard on, and that graced the cover of 1976's classic \"Frampton Comes Alive!\" LP. Thought to have been lost in 1980 in a tragic cargo plane crash, it miraculously survived, and over thirty years later, it was returned to Peter, and thus earned its Phenix nickname. Now the Gibson Custom Shop is proud to offer a VOS rendition of this guitar as an Artist model. It has all of the classic Les Paul Custom cosmetic appointments, along with a weight-relieved mahogany body with a solid mahogany top, gold hardware, Grover® tuners, Schaller Strap Locks, and three open-coil Custombucker humbuckers™. The VOS finish gives it the look of a vintage original, minus the dings and scars that the original Phenix now bears. It also features custom wiring. The 3-way toggle switch controls the neck and bridge pickups, just as on a two-pickup Les Paul Custom, and they share a volume and tone control. The second set of volume and tone controls are connected to the middle pickup; it can be used with either (or both) of the other two pickups. It can even be used by itself when the other pickups are turned down, making this Phenix-inspired model not only an iconic looking and great sounding guitar, but a highly flexible one as well. ",
+			"specs": {
+				"body_styles": "Les Paul",
+				"top": "Solid Mahogany",
+				"finish": "Gloss Nitrocellulose Lacquer",
+				"material": "Mahogany",
+				"pickup": "3 Pickups Custombucker"
+			}
+		},
+		{
+			"id": 4,
+			"guitar_name": "1957 Les Paul Custom 3-Pickup With Bigsby Vibrato Ebony Light Aged - Ebony",
+			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/6JMqbHvbbzpfLWSRkFYO1l/ed042eb9f165fce9262cebb7d3875e22/__static.gibson.com_product-images_Custom_CUS9MG964_Ebony_front-500_500.png?fit=fill&w=250&h=500",
+			"price": "$8,999.00",
+			"description": "The Original Black Beauty Gibson Custom Shop is the pinnacle of craftsmanship, quality, and sound excellence. Each instrument celebrates Gibson's legacy through accuracy, authenticity and attention to detail. With its elegant lines and ebony/pearl/gold aesthetic, the 1957 Les Paul™ Custom is easily one of the most iconic and beautiful guitars ever made. It features a body carved out of a single large piece of solid mahogany, unique among Les Paul models. The resulting dark mid-range tone from the body pairs perfectly with its bright-sounding solid ebony fingerboard. Altogether, it's the pinnacle of guitar craftsmanship, design, and tone. Gibson Custom Shop is proud to revive every last detail of the original \"Black Beauty\" for this '57 Les Paul Custom Reissue",
+			"specs": {
+				"body_styles": "Les Paul",
+				"top": "Multi-ply",
+				"finish": "Murphy Lab Aged Nitrocellulose Lacquer",
+				"material": "Solid Mahogany",
+				"pickup": "3 Custombucker Alnico (Unpotted)"
+			}
+		},
+		{
+			"id": 5,
+			"guitar_name": "Rick Beato Les Paul Special Double Cut - TV Blue Mist",
+			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/3l9hCDnmmlh9da4eD9kf3K/6169e1577647e4b25be663352bd3732a/LPSDB21BMNH1_front__1_.png?fit=fill&w=250&h=500",
+			"price": "$1,999.00",
+			"description": "Something Special Rick Beato is a record producer, songwriter, musician, and educator who is well-known for his YouTube videos on everything music; his channel has over two and a half million subscribers. Rick knows great guitars, and his new Les Paul Special Double Cut is designed to be something special. It features a double cutaway body that is slightly thinner (1.5”) than normal, making it lighter and more comfortable. The Tune-O-Matic™ bridge and Stop Bar tailpiece ensure excellent sustain and easy intonation adjustment, while the dual P-90 pickups deliver classic Les Paul Special tones. For a distinctive look, the guitar is finished in a new satin nitrocellulose lacquer color, developed with Rick and named TV Blue Mist, and Rick’s signature is reproduced on the truss rod cover. An Original Series hardshell case is included. ",
+			"specs": {
+				"body_styles": "Double Cut",
+				"top": "Single Ply Cream, Fingerboard",
+				"finish": "Single Ply Cream, Fingerboard",
+				"material": "Mahogany",
+				"pickup": "P-90"
+			}
 		}
 	]
 }

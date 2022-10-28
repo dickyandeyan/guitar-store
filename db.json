@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"guitar_name": "Les Paul Standard '50s - Heritage Cherry Sunburst",
-			"guitar_img": "https://www.gibson.com/en-US/Electric-Guitar/USAUBC849/Heritage-Cherry-Sunburst",
+			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/3xTssS9n9v8kIMVDG6LMZx/3b5e6eaf66a6cb1e71f6c8d0c3338156/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_front-500x500.png?fit=fill&w=250&h=500",
 			"price": "$2,799.00",
 			"description": "A Classic Reborn, The new Les Paul Standard returns to the classic design that made it relevant, played and loved -- shaping sound across generations and genres of music. It pays tribute to Gibson's Golden Era of innovation and brings authenticity back to life. The Les Paul Standard 50's has a solid mahogany body with a maple top, a rounded 50's-style mahogany neck with a rosewood fingerboard and trapezoid inlays. It's equipped with an ABR-1, the classic-style Tune-O-Matic bridge, aluminum stop bar tailpiece, vintage deluxe tuners with keystone buttons, and aged gold tophat knobs. The calibrated Burstbucker 1 (neck) and Burstbucker 2 (bridge) pickups are loaded with AlNiCo II magnets, audio taper potentiometers and orange drop capacitors.",
 			"specs": {
@@ -12,6 +12,20 @@
 				"finish": "Gloss Nitrocellulose Lacquer",
 				"material": "Mahogany",
 				"pickup": "Burstbucker"
+			}
+		},
+		{
+			"id": 2,
+			"guitar_name": "Les Paul 70s Deluxe - 70s Cherry Sunburst",
+			"guitar_img": "https://images.ctfassets.net/m8onsx4mm13s/0dgkQ3bDC7IrtIwb2YJgir/2c945a1e873f57303f4993f104f43818/__static.gibson.com_product-images_USA_USAMRP793_70s_Cherry_Sunburst_front-500_500.png?fit=fill&w=250&h=500",
+			"price": "$2,599.00",
+			"description": "A 70s Classic Returns, First released in 1969, the Deluxe saw the introduction of the mini humbucker™ to the Les Paul lineup. Mini humbuckers retain the hum-free performance of their full-sized cousins but with a somewhat clearer and brighter tonality. The new Deluxe has features that were inspired by those early models from the 1970s, with a non-weight relief mahogany body and bound maple top, a bound mahogany neck with a Rounded C profile, vintage-style Keystone tuners, Graph Tech® nut, and a traditional Les Paul control layout with 2 Volume and 2 Tone controls wired with Orange Drop® capacitors. Available in classic Goldtop and 70s Cherry Sunburst gloss nitrocellulose lacquer finishes.",
+			"specs": {
+				"body_styles": "Les Paul",
+				"top": "maple",
+				"finish": "Gloss Nitrocellulose Lacquer",
+				"material": "Mahogany",
+				"pickup": "Mini Humbucker"
 			}
 		}
 	]
